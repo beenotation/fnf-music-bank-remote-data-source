@@ -1,0 +1,37 @@
+[
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/hatsune_miku/",
+    "music_title": "hatsune_miku_aishite",
+    "music_url": "fnf_hatsune_miku_aishite.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/hatsune_miku/",
+    "music_title": "hatsune_miku_disapperance_easy",
+    "music_url": "fnf_hatsune_miku_disapperance_easy.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/hatsune_miku/",
+    "music_title": "hatsune_miku_disapperance_hard",
+    "music_url": "fnf_hatsune_miku_disapperance_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/hatsune_miku/",
+    "music_title": "hatsune_miku_love_me_easey",
+    "music_url": "fnf_hatsune_miku_love_me_easey.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/hatsune_miku/",
+    "music_title": "hatsune_miku_love_me_hard",
+    "music_url": "fnf_hatsune_miku_love_me_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/hatsune_miku/",
+    "music_title": "hatsune_miku_popipo",
+    "music_url": "fnf_hatsune_miku_popipo.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/hatsune_miku/",
+    "music_title": "hatsune_miku_wife_forever",
+    "music_url": "fnf_hatsune_miku_wife_forever.ogg"
+  }
+]

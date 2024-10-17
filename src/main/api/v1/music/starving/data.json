@@ -1,0 +1,32 @@
+[
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/starving/",
+    "music_title": "starving_aspirer",
+    "music_url": "fnf_starving_artist_aspirer.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/starving/",
+    "music_title": "starving_aspirers",
+    "music_url": "fnf_starving_artist_aspirers.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/starving/",
+    "music_title": "starving_cry_baby",
+    "music_url": "fnf_starving_artist_cry_baby.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/starving/",
+    "music_title": "starving_hunger_remix",
+    "music_url": "fnf_starving_artist_hunger_remix.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/starving/",
+    "music_title": "starving_hunger_v1",
+    "music_url": "fnf_starving_artist_hunger_version_1.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/starving/",
+    "music_title": "starving_v2",
+    "music_url": "fnf_starving_artist_v_2.ogg"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_balistic",
+    "music_url": "fnf_whitty_balistic.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_balistic_v2",
+    "music_url": "fnf_whitty_balistic_v2.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_hearbass",
+    "music_url": "fnf_whitty_hearbass.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_lo_fight_v1",
+    "music_url": "fnf_whitty_lo_fight_v1.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_lo_fight_v2",
+    "music_url": "fnf_whitty_lo_fight_v2.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_lo_fight_v3",
+    "music_url": "fnf_whitty_lo_fight_v3.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_lo_fight_v4",
+    "music_url": "fnf_whitty_lo_fight_v4.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_lo_gihtuv",
+    "music_url": "fnf_whitty_lo_gihtuv.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_overhead_v1",
+    "music_url": "fnf_whitty_overhead_v1.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_overhead_v2",
+    "music_url": "fnf_whitty_overhead_v2.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_whitrolls",
+    "music_url": "fnf_whitty_whitrolls.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/whitty/",
+    "music_title": "whitty_withrolls_2",
+    "music_url": "fnf_whitty_withrolls_2.ogg"
+  }
+]

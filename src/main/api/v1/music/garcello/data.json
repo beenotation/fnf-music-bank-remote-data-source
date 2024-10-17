@@ -1,0 +1,42 @@
+[
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_fading_easy",
+    "music_url": "fnf_garcello_fading_easy.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_fading_hard",
+    "music_url": "fnf_garcello_fading_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_hard",
+    "music_url": "fnf_garcello_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_headache_easy",
+    "music_url": "fnf_garcello_headache_easy.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_headache_hard",
+    "music_url": "fnf_garcello_headache_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_nervers_easy",
+    "music_url": "fnf_garcello_nervers_easy.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_nervers_hard",
+    "music_url": "fnf_garcello_nervers_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/garcello/",
+    "music_title": "garcello_release_easy",
+    "music_url": "fnf_garcello_release_easy.ogg"
+  }
+]

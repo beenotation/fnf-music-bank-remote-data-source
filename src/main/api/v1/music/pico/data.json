@@ -1,0 +1,47 @@
+[
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_blammed_hard",
+    "music_url": "fnf_pico_blammed_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_blammed_piano_intstrument",
+    "music_url": "fnf_pico_blammed_piano_intstrument.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_dramatic",
+    "music_url": "fnf_pico_dramatic.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_hard",
+    "music_url": "fnf_pico_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_philly_hard",
+    "music_url": "fnf_pico_philly_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_philly_nice_piano_instrument",
+    "music_url": "fnf_pico_philly_nice_piano_instrument.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_piano_instrument",
+    "music_url": "fnf_pico_piano_instrument.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_pico_easy",
+    "music_url": "fnf_pico_pico_easy.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/pico/",
+    "music_title": "pico_vlammed_eassy",
+    "music_url": "fnf_pico_vlammed_eassy.ogg"
+  }
+]

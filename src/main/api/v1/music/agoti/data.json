@@ -1,0 +1,42 @@
+[
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_hard",
+    "music_url": "fnf_agoti_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_parasite",
+    "music_url": "fnf_agoti_parasite.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_parasite_normal",
+    "music_url": "fnf_agoti_parasite_normal.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_screenplay_hard",
+    "music_url": "fnf_agoti_screenplay_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_screenplay_normal",
+    "music_url": "fnf_agoti_screenplay_normal.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_v1_normal",
+    "music_url": "fnf_agoti_v1_normal.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_v2_normal",
+    "music_url": "fnf_agoti_v2_normal.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/agoti/",
+    "music_title": "agoti_v3_normal",
+    "music_url": "fnf_agoti_v3_normal.ogg"
+  }
+]

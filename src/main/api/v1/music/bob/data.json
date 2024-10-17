@@ -1,0 +1,22 @@
+[
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/bob/",
+    "music_title": "bob_run",
+    "music_url": "bob_fnf_run.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/bob/",
+    "music_title": "bob_sunshine",
+    "music_url": "bob_fnf_sunshine.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/bob/",
+    "music_title": "bob_withered",
+    "music_url": "bob_fnf_withered.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/bob/",
+    "music_title": "bob_onslaught",
+    "music_url": "fnf_bob_onslaught.ogg"
+  }
+]

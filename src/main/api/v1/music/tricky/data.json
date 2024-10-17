@@ -1,0 +1,57 @@
+[
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_expurgation",
+    "music_url": "fnf_tricky_expurgation.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_expurgation_hard",
+    "music_url": "fnf_tricky_expurgation_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_expurgation_normal",
+    "music_url": "fnf_tricky_expurgation_normal.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_hellclown",
+    "music_url": "fnf_tricky_hellclown.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_improbable_outset",
+    "music_url": "fnf_tricky_improbable_outset.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_madness",
+    "music_url": "fnf_tricky_madness.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_madness_hard",
+    "music_url": "fnf_tricky_madness_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_madness_hard_2",
+    "music_url": "fnf_tricky_madness_hard_2.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_phase_3",
+    "music_url": "fnf_tricky_phase_3.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_phase_5",
+    "music_url": "fnf_tricky_phase_5.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tricky/",
+    "music_title": "tricky_phase_7",
+    "music_url": "fnf_tricky_phase_7.ogg"
+  }
+]

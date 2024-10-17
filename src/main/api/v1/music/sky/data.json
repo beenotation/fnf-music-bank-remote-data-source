@@ -1,0 +1,27 @@
+[
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/sky/",
+    "music_title": "sky_manifest_v1",
+    "music_url": "fnf_sky_manifest_v1.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/sky/",
+    "music_title": "sky_manifest_ver_2",
+    "music_url": "fnf_sky_manifest_ver_2.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/sky/",
+    "music_title": "sky_v1",
+    "music_url": "fnf_sky_v1.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/sky/",
+    "music_title": "sky_v2",
+    "music_url": "fnf_sky_v2.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/sky/",
+    "music_title": "sky_wife_forever",
+    "music_url": "fnf_sky_wife_forever.ogg"
+  }
+]

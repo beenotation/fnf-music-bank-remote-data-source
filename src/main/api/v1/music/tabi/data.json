@@ -1,0 +1,27 @@
+[
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tabi/",
+    "music_title": "tabi",
+    "music_url": "fnf_tabi.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tabi/",
+    "music_title": "tabi_genocide",
+    "music_url": "fnf_tabi_genocide.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tabi/",
+    "music_title": "tabi_genocide_hard",
+    "music_url": "fnf_tabi_genocide_hard.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tabi/",
+    "music_title": "tabi_last_chance",
+    "music_url": "fnf_tabi_last_chance.ogg"
+  },
+  {
+    "base_url": "/fnf-music-bank-remote-data-source/src/main/api/v1/music/tabi/",
+    "music_title": "tabi_my_battle",
+    "music_url": "fnf_tabi_my_battle.ogg"
+  }
+]
